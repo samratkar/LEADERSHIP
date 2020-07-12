@@ -1,0 +1,85 @@
+[A. CORPORATE GOVERNANCE]
+Governance is about deciding what the purpose of the organization should be, then deciding who is going to have power, and how we can hold people accountable for pursuing our intended purpose.
+
+  >1. Corporate Governance
+    - Purpose
+    - Control
+  >2. The above two are accomplished by effective leadership.
+
+[B. PURPOSE OF A CORPORATION]
+  > 1. Profit - leads to overall improvement of the society. [shareholder only] [short term]
+  <Milton Friedman> - There is one and only one social responsibility of business - to use its resources and engage into activities designed to increase its profit so long as it stays within the rules of the game, which is to say, engages in open and free competition without deception or fraud".
+  Idea of social responsibility is an individual construct.
+  > 2.customer - Drucker
+  > 3.stakeholders -
+  - It is very hard to measure.
+  - How to determine the stakeholders.
+  - Longer term focus on managers.
+
+[C. NATURE OF CORPORATIONS]
+  > Rational systems - Shareholder value system
+    - Agency theory -
+      - Owners - Principal - or Board
+      - Managers - Agents.
+    - Agency Cost
+      - Information assymetry between principal and Agent
+      - Difference in timeline horizons between princial and agent
+    - Overcome agency Cost - Control mechanisms [The same is used inside the org by the project manager and employees]
+      - Direct monitoring - Board of directors. - Board independence
+      - Incentives - executives compensations tied to hitting goals.
+      - Corporate Control changes.
+    - Measurement system
+      - Efficiency
+  > Natural systems - Stakeholders value system
+    - `Pluralistic ignorance` - Abeline paradox. - Pluralistic ignorance occurs when individuals within groups do not recognize that others share their concerns.
+    - Getting the right people,
+    - Enabling them to interact in the productive ways is an important part of effective governance.
+    - Measurement system
+      - Culture
+      - COmpotency
+      - People
+  > Open Systems - mixture of both.
+    - Ability to adapt
+    - Needs of variety of different stakeholders.
+
+
+[D. WHAT IS THE MOTIVATION TO CREATE PURPOSE OF AN ORG]
+  1. @MOTIVATION
+  2. <source of purpose> Connect people's work beyond their economic self interest. Give them a reason beyond paycheck to do the organization's work.
+      - Work to satisfy a @need of customer by providing a @value - `making a difference to others`
+        - Employees - Makes them more motivated, when they know that they are making a differnce the lives of others. Humans a pro-socially motivated.
+        - Shareholders - Profitability and purpose are positively correlated.
+      - @Being or becoming something desirable.
+
+[E. HOW TO INFUSE PURPOSE]
+  1. Change the @view of the firm - Make a difference in the society.
+  2. @Clear and @direct @connection of the purpose with @business using a mission statement.
+  3. @Commitment and @authenticity from @senior mgmt. Decision to be connected with purpose.
+  4. Involve the @whole organization
+
+[F. MISSION STATEMENTS]
+  1. What is a mission statement?
+    - A *broad* declaration of organization's *purpose* that *identifies* organization's *product or services* as well as its *customers*, and distinguishes the organization from its competitors.
+  2. What function do they serve?
+    - Strategy and Planning - be an integrative force in strategy and planning. Get all in same page. [manager]
+    - Values and Ethics - How to act
+    - `Purpose and engagement` - Engages employees. [all]
+  3. How to make them impactful?
+    - Need of a mission statement
+      - Mission statements do not work on their Own
+      - Decide which function it will serve - strategic fitment, ethics or employee engagement (purpose).
+      - Carefully construct
+    - How to form an effective mission statement
+      - Think about what, why , how and who.
+      - Actionable language
+      - Avoid vague or overly broad wording.
+      - Involve people beyond top level management. This will help connect the mission statemtn thorughout the org.
+
+[G. MEASURE ORG EFFECTIVENESS]
+  1. @Efficiency - Doing things right.
+  2. @Effective - Doing right thing
+  3. @Balanced score cards
+    - Financial : `Rational System` - Lagging indicator 
+    - Operation : `Rational System`
+    - Learning & Growth : `Natural System`
+    - Customer / Stakeholders. : `Open System`
